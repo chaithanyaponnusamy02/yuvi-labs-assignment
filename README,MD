@@ -1,0 +1,26 @@
+# Random Even Number Table Generator
+
+A simple Java console application that generates a **P × P** table with random even numbers (2–16), highlights a user-selected even number, and counts its occurrences.
+
+## Features
+- Generates random even numbers (2–16)
+- Validates user input
+- Highlights the selected number
+- Displays the occurrence count
+
+## Technologies
+- Java
+- Scanner
+- Random
+- Exception Handling
+
+## Run
+
+```bash
+javac Table.java
+java Table
+```
+
+## Author
+
+**Chaithanya P**
